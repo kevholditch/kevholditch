@@ -13,6 +13,9 @@
 ### Tools
 - :octocat: [Pagerduty Slack Sync](https://github.com/kevholditch/go-pagerduty-slack-sync) - Tool that syncs Pagerduty on call personnel with Slack groups
 
+### Games
+- :octocat: [Breakout](https://github.com/kevholditch/breakout) - Breakout clone written in Go using OpenGL
+
 ### Contact
 - [LinkedIn](https://www.linkedin.com/in/kevholditch/)
 - [Twitter](https://twitter.com/kevholditch)
