@@ -8,13 +8,13 @@
 - :octocat: [Terraform Provider Kong](https://github.com/kevholditch/terraform-provider-kong) - Terraform provider for [Kong](https://konghq.com/kong/)
 
 ### Clients
-- :octocat: [gokong](https://github.com/kevholditch/gokong) - A go client library for [Kong](https://konghq.com/kong/)
+- 🦍 [gokong](https://github.com/kevholditch/gokong) - A go client library for [Kong](https://konghq.com/kong/)
 
 ### Tools
 - :octocat: [Pagerduty Slack Sync](https://github.com/kevholditch/go-pagerduty-slack-sync) - Tool that syncs Pagerduty on call personnel with Slack groups
 
 ### Games
-- :octocat: [Breakout](https://github.com/kevholditch/breakout) - Breakout clone written in Go using OpenGL
+- 🕹️ [Breakout](https://github.com/kevholditch/breakout) - Breakout clone written in Go using OpenGL
 
 ### Contact
 - [LinkedIn](https://www.linkedin.com/in/kevholditch/)
