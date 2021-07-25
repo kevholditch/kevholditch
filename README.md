@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**kevholditch/kevholditch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Repositories of Note
 
-Here are some ideas to get you started:
+### Learning
+- [Terraform Examples](https://github.com/kevholditch/terraform-beginner-to-master-examples] - Terraform Examples that occumpany my [Terraform Book - From Beginner to Master](https://leanpub.com/terraform-from-beginner-to-master)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Terraform Providers
+- [Terraform Provider Kong](https://github.com/kevholditch/terraform-provider-kong) - Terraform provider for [Kong](https://konghq.com/kong/)
+
+### Clients
+- [gokong](https://github.com/kevholditch/gokong) - A go client library for [Kong](https://konghq.com/kong/)
+
+### Tools
+- [Pagerduty Slack Sync](https://github.com/kevholditch/go-pagerduty-slack-sync) - Tool that syncs Pagerduty on call personnel with Slack groups
+
+### Contact
+- [LinkedIn](https://www.linkedin.com/in/kevholditch/)
+- [Twitter](https://twitter.com/kevholditch)
