@@ -2,6 +2,7 @@
 
 ### Learning
 - 📖 [Terraform - From Beginner to Master Book](https://leanpub.com/terraform-from-beginner-to-master) - Learn Terraform from the ground up with examples written in AWS
+- 🧭 [Terraform - From Beginner to Master Interactive Course](https://www.educative.io/courses/terraform-beginner-master-aws) - Learn Terraform from the ground up with examples written in AWS
 - :octocat: [Terraform Examples](https://github.com/kevholditch/terraform-beginner-to-master-examples) - Terraform Examples that occumpany my [Terraform Book - From Beginner to Master](https://leanpub.com/terraform-from-beginner-to-master)
 
 ### Terraform Providers
