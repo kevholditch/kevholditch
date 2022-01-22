@@ -10,6 +10,7 @@
 
 ### Tools
 - :octocat: [Pagerduty Slack Sync](https://github.com/kevholditch/go-pagerduty-slack-sync) - Tool that syncs Pagerduty on call personnel with Slack groups
+- :octocat: [Vacuum](https://github.com/kevholditch/vacuum) - Vacuum your AWS account to remove unused resources and save you 💸
 
 ### Games
 - 🕹️ [Breakout](https://github.com/kevholditch/breakout) - Breakout clone written in Go using OpenGL
